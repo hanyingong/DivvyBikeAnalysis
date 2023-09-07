@@ -1,4 +1,4 @@
-# DivvyBike_Analysis
+# DivvyBike Analysis
 
 ## About
 
@@ -10,32 +10,37 @@
 
 ## Highlights/ Showcase
 
-    1. Analysis conducted in complete data analytics framework. (Ask -> Prepare -> Process -> Analyse -> Share -> Act)
+- Analysis conducted in complete data analytics framework. (Ask -> Prepare -> Process -> Analyse -> Share -> Act)
 
-    2. Technical know-hows:
-          i) How to compute the physical distance between 2 points on the earth, using latitude and longitude, via “Haversine” formula from “mpu” library.  
-          ii) How to retrieve the address using latitude and longitude from “geopy”, and via free API from Nominatim.
+- Technical know-hows:
+      i) How to compute the physical distance between 2 points on the earth, using latitude and longitude, via “Haversine” formula from “mpu” library.  
+      ii) How to retrieve the address using latitude and longitude from “geopy”, and via free API from Nominatim.
 
-    3. Data visualisation (Published to Tableau Public.)
+- Data visualisation (Published to Tableau Public.)
 
 ## Summary
 
-Important Links:
+Important Docs / Links:
 
-    1. Summary of Analysis (PDF in One Drive): https://1drv.ms/b/s!Aj-vT8FJDVrhmHmRpWSfq9cFcVJG?e=F5yjRY
-    2. Data Visualisation (Tableau Public): https://public.tableau.com/app/profile/han.ying.ong4602/viz/DivvyBikeAnalysis_GoogleCertification/Summary
-    3. data preparation and processing scripts can be found in this repository instead. 
+- Summary of Analysis (PDF in One Drive): https://1drv.ms/b/s!Aj-vT8FJDVrhmHmRpWSfq9cFcVJG?e=F5yjRY
+
+- Data Visualisation (Tableau Public): https://public.tableau.com/app/profile/han.ying.ong4602/viz/DivvyBikeAnalysis_GoogleCertification/Summary
+
+- data preparation and processing scripts can be found in this repository instead.
 
 
 ### Business Objective from Case Study
 
 [Who] A bike sharing company in Chicago, Cyclistic.
+
 [What] Target to convert casual riders into annual members.
+
 [Why] To maximize the number of annual memberships.
+
 [How] To analyze the Cyclistic’s historical bike trip data to identify trends, to find out
-          1. What are the differences between annual members and casual riders
-          2. why casual riders would buy a membership
-          3. How digital media affect their marketing tactics
+          - What are the differences between annual members and casual riders
+          -  why casual riders would buy a membership
+          - How digital media affect their marketing tactics
 
 Scope of Analysis from Case Study:
 
